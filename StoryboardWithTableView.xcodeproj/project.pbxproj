@@ -13,6 +13,7 @@
 		E4D3F2AE28242CDC007B937F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4D3F2AC28242CDC007B937F /* Main.storyboard */; };
 		E4D3F2B028242CE0007B937F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4D3F2AF28242CE0007B937F /* Assets.xcassets */; };
 		E4D3F2B328242CE0007B937F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4D3F2B128242CE0007B937F /* LaunchScreen.storyboard */; };
+		E4D3F2BB282431D8007B937F /* MyFirstTableViewDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4D3F2BA282431D8007B937F /* MyFirstTableViewDataSource.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E4D3F2AF28242CE0007B937F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4D3F2B228242CE0007B937F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4D3F2B428242CE0007B937F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4D3F2BA282431D8007B937F /* MyFirstTableViewDataSource.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstTableViewDataSource.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E4D3F2A628242CDC007B937F /* AppDelegate.swift */,
 				E4D3F2A828242CDC007B937F /* SceneDelegate.swift */,
 				E4D3F2AA28242CDC007B937F /* ViewController.swift */,
+				E4D3F2BA282431D8007B937F /* MyFirstTableViewDataSource.swift */,
 				E4D3F2AC28242CDC007B937F /* Main.storyboard */,
 				E4D3F2AF28242CE0007B937F /* Assets.xcassets */,
 				E4D3F2B128242CE0007B937F /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				E4D3F2AB28242CDC007B937F /* ViewController.swift in Sources */,
 				E4D3F2A728242CDC007B937F /* AppDelegate.swift in Sources */,
+				E4D3F2BB282431D8007B937F /* MyFirstTableViewDataSource.swift in Sources */,
 				E4D3F2A928242CDC007B937F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
